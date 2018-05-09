@@ -1,8 +1,8 @@
 {
- "name": "pwa hw",
+ "name": "pwa",
   "short_name": "app",
   "lang": "zh-TW",
-  "start_url": "/https://hm5829.github.io/ppw/",
+  "start_url": "https://hm5829.github.io/ppw/",
   "display": "standalone",
  "icons": [
   {
