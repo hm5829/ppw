@@ -1,6 +1,6 @@
 {
- "name": "My pwa",
-  "short_name": "pwa app",
+ "name": "pwa hw",
+  "short_name": "app",
   "lang": "zh-TW",
   "start_url": "/https://hm5829.github.io/ppw/",
   "display": "standalone",
